@@ -1,17 +1,17 @@
 
 
 ## 👨🏻‍💻 About Me
-# Hello, I'm Rishabh Agrawal! 👋
+## Hello, I'm Rishabh Agrawal! 👋
 
 I am currently a final-year undergraduate student pursuing B.Tech at NIT Warangal. My journey in the field of technology has been a blend of data science and software development over the past two years. I am passionate about leveraging technology to solve real-world problems and thrive in a dynamic and collaborative environment.
 
-## 🔭 What I'm Currently Working On
+### 🔭 What I'm Currently Working On
 
-I am currently immersed in the world of MLOps, focusing on end-to-end projects that involve machine learning and operations. This journey has allowed me to bridge the gap between development and operations, ensuring seamless integration of machine learning models into production environments. I am constantly exploring ways to enhance the efficiency and reliability of machine learning workflows.
+      - I am currently immersed in the world of MLOps, focusing on end-to-end projects that involve machine learning and operations. 
 
-## 🌱 What I'm Learning
-
-My learning journey includes mastering the intricacies of Docker, a powerful containerization platform. I believe in the importance of containerization for creating consistent and reproducible environments, and Docker has become a crucial tool in my toolkit. As I delve deeper into the world of containers, I am excited to apply this knowledge to streamline development and deployment processes.
+### 🌱 What I'm Learning
+     - Docker
+     - AWS(EC2 and ECR)
 
 ## 💻 Tech Stacks and Experience
 
